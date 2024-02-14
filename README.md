@@ -1,6 +1,12 @@
 <h1 align="center">Hi Folks 👋, I'm Mukesh Utmani</h1>
 <h3 align="center">Passionate Software developer</h3>
+Sup Nerds ⌑
+I like making things, I'm a fairly curious person.
 
+I make tools for developers, projects, and am on the Vue.js core team. I'm also VP of Developer Experience at Netlify, a company that makes it quick and straightforward to deploy sites. I'm also a staff writer for CSS-Tricks, and wrote a book on SVG Animations from O'Reilly. I'm a Frontend Master: I have courses on Vue, Nuxt, SVG Animation, and Design for Developers, all of the materials of which are open sourced on this here site.
+
+You can sponsor my work through GitHub sponsors.
+🥂 Cheers!
 
 
 <h3 align="left">Connect with me:</h3>
